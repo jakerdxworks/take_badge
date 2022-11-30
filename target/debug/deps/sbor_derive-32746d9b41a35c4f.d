@@ -1,0 +1,10 @@
+/Users/jakemai/Documents/GitHub/take_badge/target/debug/deps/libsbor_derive-32746d9b41a35c4f.dylib: /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/lib.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/decode.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/describe.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/encode.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/type_id.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/utils.rs
+
+/Users/jakemai/Documents/GitHub/take_badge/target/debug/deps/sbor_derive-32746d9b41a35c4f.d: /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/lib.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/decode.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/describe.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/encode.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/type_id.rs /Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/utils.rs
+
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/lib.rs:
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/decode.rs:
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/describe.rs:
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/encode.rs:
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/type_id.rs:
+/Users/jakemai/.cargo/git/checkouts/radixdlt-scrypto-1833d92590086ce0/f4c4198/sbor-derive/src/utils.rs:

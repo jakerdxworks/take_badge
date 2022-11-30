@@ -1,0 +1,11 @@
+/Users/jakemai/Documents/GitHub/take_badge/target/debug/deps/textwrap-5753d3299dbda2d6.rmeta: /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/lib.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/indentation.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_separators.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_splitters.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/wrap_algorithms.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/line_ending.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/core.rs
+
+/Users/jakemai/Documents/GitHub/take_badge/target/debug/deps/textwrap-5753d3299dbda2d6.d: /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/lib.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/indentation.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_separators.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_splitters.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/wrap_algorithms.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/line_ending.rs /Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/core.rs
+
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/lib.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/indentation.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_separators.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/word_splitters.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/wrap_algorithms.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/line_ending.rs:
+/Users/jakemai/.cargo/registry/src/github.com-1ecc6299db9ec823/textwrap-0.16.0/src/core.rs:
